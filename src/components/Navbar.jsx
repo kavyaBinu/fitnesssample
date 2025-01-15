@@ -15,7 +15,7 @@ const Navbar = () => {
       <Link to={'/'}>
 
       {/* ---------LOGOOOOOO--------- */}
-      <img src={logonew} alt="NO IMG" style={{width: '150px', height:'140px', margin:'0', maxWidth: '100%'}}/>
+      <img src={logonew} alt="NO IMG" style={{width: '100px', height:'50px', margin:'0', maxWidth: '100%'}}/>
       </Link>
 
       <Stack direction={{xs: 'column', sm: 'row'}}  alignItems='center' 
